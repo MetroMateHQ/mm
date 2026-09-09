@@ -36,6 +36,17 @@
       "category": "Offers",
       "icon": "card",
       "color": "#2196F3"
+    },
+    {
+      "id": "offer_smart_card_02",
+      "title": "Calculate your Fare",
+      "message": "Click here to plan your route right away!",
+      "timestamp": 1788982690900,
+      "type": "info",
+      "category": "Offers",
+      "icon": "calculator",
+      "color": "#2196F3",
+      "link": "Fare" 
     }
   ]
 }
