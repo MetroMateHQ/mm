@@ -21,7 +21,7 @@
       "id": "alert_blue_line_01",
       "title": "Blue Line Alert",
       "message": "Blue Line par maintenance ka kaam chal raha hai. Kripya apni yatra ka dhyan rakhein.",
-      "timestamp": 1788892719518,
+      "timestamp": 1788982690898,
       "type": "warning",
       "category": "Alerts",
       "icon": "warning",
