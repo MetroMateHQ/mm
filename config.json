@@ -1,0 +1,41 @@
+{
+  "update": {
+    "latestVersion": "1.0.0",
+    "forceUpdate": false,
+    "releaseNotes": "MetroMate ka naya update aa gaya hai! Naye features aur bug fixes ke liye abhi update karein.",
+    "playStoreUrl": "market://details?id=com.metromate"
+  },
+  "notifications": [
+    {
+      "id": "welcome_msg_01",
+      "title": "Welcome to MetroMate! 🚆",
+      "message": "App download karne ke liye shukriya. Ab Patna Metro ka route aur fare ek click me check karein.",
+      "timestamp": 1704067200000,
+      "type": "success",
+      "category": "Updates",
+      "icon": "star",
+      "color": "#4CAF50",
+      "showAllTime": true
+    },
+    {
+      "id": "alert_blue_line_01",
+      "title": "Blue Line Alert",
+      "message": "Blue Line par maintenance ka kaam chal raha hai. Kripya apni yatra ka dhyan rakhein.",
+      "timestamp": 1726000000000,
+      "type": "warning",
+      "category": "Alerts",
+      "icon": "warning",
+      "color": "#FF9800"
+    },
+    {
+      "id": "offer_smart_card_01",
+      "title": "Smart Card Discount",
+      "message": "Smart Card use karne par har yatra par 10% ki chhoot payein!",
+      "timestamp": 1726050000000,
+      "type": "info",
+      "category": "Offers",
+      "icon": "card",
+      "color": "#2196F3"
+    }
+  ]
+}
