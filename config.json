@@ -1,15 +1,15 @@
 {
   "update": {
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.0",
     "forceUpdate": false,
-    "releaseNotes": "MetroMate ka naya update aa gaya hai! Naye features aur bug fixes ke liye abhi update karein.",
+    "releaseNotes": "A new MetroMate update is here! Update now to get new features and bug fixes.",
     "playStoreUrl": "market://details?id=com.metromate"
   },
   "notifications": [
     {
       "id": "welcome_msg_01",
       "title": "Welcome to MetroMate! 🚆",
-      "message": "App download karne ke liye shukriya. Ab Patna Metro ka route aur fare ek click me check karein.",
+      "message": "Thank you for downloading the app. Now check Patna Metro routes and fares with just one click.",
       "timestamp": 1788892719518,
       "type": "success",
       "category": "Updates",
@@ -20,7 +20,7 @@
     {
       "id": "alert_blue_line_01",
       "title": "Blue Line Alert",
-      "message": "Blue Line par maintenance ka kaam chal raha hai. Kripya apni yatra ka dhyan rakhein.",
+      "message": "Maintenance work is currently underway on the Blue Line. Please plan your journey accordingly.",
       "timestamp": 1788982690898,
       "type": "warning",
       "category": "Alerts",
@@ -30,7 +30,7 @@
     {
       "id": "offer_smart_card_01",
       "title": "Smart Card Discount",
-      "message": "Smart Card use karne par har yatra par 10% ki chhoot payein!",
+      "message": "Get 10% off on every journey when you use a Smart Card!",
       "timestamp": 1788982690898,
       "type": "info",
       "category": "Offers",
@@ -39,14 +39,14 @@
     },
     {
       "id": "offer_smart_card_02",
-      "title": "Calculate your Fare",
+      "title": "Calculate Your Fare",
       "message": "Click here to plan your route right away!",
       "timestamp": 1788982690900,
       "type": "info",
       "category": "Offers",
       "icon": "calculator",
       "color": "#2196F3",
-      "link": "Fare" 
+      "link": "Fare"
     }
   ]
 }
