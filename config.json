@@ -47,6 +47,17 @@
       "icon": "calculator",
       "color": "#2196F3",
       "link": "Fare"
+    },
+    {
+      "id": "offer_smart_card_03",
+      "title": "Add Funds In Card",
+      "message": "Click here to add funds right away!",
+      "timestamp": 1789037739,
+      "type": "info",
+      "category": "Offers",
+      "icon": "calculator",
+      "color": "#2196F3",
+      "link": "Fare"
     }
   ]
 }
