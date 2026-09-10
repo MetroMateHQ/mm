@@ -8,7 +8,7 @@
   "notifications": [
     {
       "id": "welcome_msg_01",
-      "title": "Welcome to MetroMate! 🚆",
+      "title": "Welcome to MetroMate!",
       "message": "Thank you for downloading the app. Now check Patna Metro routes and fares with just one click.",
       "timestamp": 1788892719518,
       "type": "success",
