@@ -1,7 +1,7 @@
 {
   "update": {
     "latestVersion": "1.0.1",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "releaseNotes": "A new MetroMate update is here! Update now to get new features and bug fixes.",
     "playStoreUrl": "market://details?id=com.metromate"
   },
